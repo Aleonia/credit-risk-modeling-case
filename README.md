@@ -22,8 +22,7 @@ O fluxo foi dividido em quatro notebooks executados sequencialmente:
 ├── run_pipeline.py
 ├── validar_ambiente.py
 ├── requirements.txt
-├── README.md
-└── submissao_case.csv
+└── README.md
 ```
 
 As bases de entrada e as saídas intermediárias não fazem parte do pacote de submissão.
